@@ -1,0 +1,27 @@
+{
+  "name": "atividade-2-ppi",
+  "version": "1.0.0",
+  "description": "Desenvolver uma aplicação utilizando formulário com método POST e com AÇÃO para envio de dados",
+  "keywords": [
+    "POST",
+    "PPI"
+  ],
+  "homepage": "https://github.com/devdudo/ATIVIDADE-2-PPI#readme",
+  "bugs": {
+    "url": "https://github.com/devdudo/ATIVIDADE-2-PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdudo/ATIVIDADE-2-PPI.git"
+  },
+  "license": "ISC",
+  "author": "Eduardo de Lucca",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
